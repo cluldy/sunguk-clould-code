@@ -1,7 +1,2 @@
-# sunguk-clould-code
-## Why does this project exist?
-This project is for school coding club.
-So, You won`t get a useful information from this.
-Unless you are the member of our coding club, please skip this.
-
-(Actually, It`s almost impossible for you to see this)
+#이거 꼭 읽으시오
+중간에 껴 있는 scriptor1209는 계정을 했갈려서 생긴 것이나, 문제는 없으므로, 무시하시면 됩니다.
